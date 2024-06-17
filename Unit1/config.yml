@@ -1,0 +1,9 @@
+mqtt:
+  host: 192.168.85.200
+  port: 1883
+  topic: haudi/hass/tvoLOM7XjOKcnaosDRb_mw/.62-unit1
+
+modbus:
+  host: 192.168.85.62
+  port: 502
+  unitid: 1
